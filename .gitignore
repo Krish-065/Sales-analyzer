@@ -1,0 +1,5 @@
+_pycache_/
+*.pyc
+.ipynb_checkpoints/
+*.csv  # Optional: Ignore CSV if large; remove if you want to track data
+
